@@ -1,3 +1,4 @@
 ## express app
 
-Access with browser http://localhost:8080
+Access locally via compose with browser http://localhost:3000
+Access globally via Render https://express-app-e6lp.onrender.com/
